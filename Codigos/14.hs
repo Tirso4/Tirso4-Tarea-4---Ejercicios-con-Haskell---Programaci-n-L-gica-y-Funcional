@@ -1,0 +1,1 @@
+dupli list = concat [[x,x] | x <- list]

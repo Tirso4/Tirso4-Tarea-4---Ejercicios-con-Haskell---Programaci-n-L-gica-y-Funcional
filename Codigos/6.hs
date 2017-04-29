@@ -1,0 +1,1 @@
+palindromo x = reverse x == x

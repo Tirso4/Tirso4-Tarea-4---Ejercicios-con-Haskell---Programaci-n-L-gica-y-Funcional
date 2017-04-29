@@ -1,0 +1,1 @@
+slice xs i k | i>0 = take (k-i+1) $ drop (i-1) xs
