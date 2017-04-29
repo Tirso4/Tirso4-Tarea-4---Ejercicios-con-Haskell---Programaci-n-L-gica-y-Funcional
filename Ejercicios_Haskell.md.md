@@ -42,7 +42,7 @@ Para ello usamos el comando **Last** como se muestra en la **imagen 1**.
 **Solución**
 usaremos **Reverse** para invertir nuestra lista de elementos una vez echo esto usaremos **"!!"** el cual nos dará el indice de la lista del elemento que queremos, como podemos observar en la **imagen 2**.
 
-![enter image description here](https://lh3.googleusercontent.com/-sWbL2a8kWM0/WQExFzDartI/AAAAAAAAEgo/_DEyrEJOlW0WF-hdzReV-zTl1voAUy5awCLcB/s0/Problema+1.png "Problema 2.png")
+![](https://github.com/Tirso4/Tirso4-Tarea-4---Ejercicios-con-Haskell---Programaci-n-L-gica-y-Funcional/blob/master/imagenes/Problema%202.png))
 
 &nbsp;
 &nbsp;
@@ -57,7 +57,7 @@ usaremos **Reverse** para invertir nuestra lista de elementos una vez echo esto 
  **Solución**
 Para ello utilizaremos   **!!** para indicar cual elemento de la lista queremos saber su posición como se muestra en la **imagen 2**.
 
-![enter image description here](https://lh3.googleusercontent.com/-AqyI5A_t3Do/WQEz_zxBcII/AAAAAAAAEg4/kXWUWt4KR5ojWadAp4HHPGFacA3xMpA9gCLcB/s0/Problema+1.png "Problema 3.png")
+![](https://github.com/Tirso4/Tirso4-Tarea-4---Ejercicios-con-Haskell---Programaci-n-L-gica-y-Funcional/blob/master/imagenes/Problema%203.png)
 
 
 &nbsp;
@@ -82,7 +82,7 @@ Encontrar el número de elementos de una lista.
 Para saber cuantos elementos tiene una lista usamos **Length** y nos dara 
 la cantidad de elementos que se encuentran en la lista como se ve en la **imagen 4**.
 
-![enter image description here](https://lh3.googleusercontent.com/-XbpH49iaYEI/WQE37aJOXNI/AAAAAAAAEhM/ymmoCubHekwXs7-DcxpTQDCCedd6kmdEQCLcB/s0/Problema+1.png "Problema 4.png") 
+![](https://github.com/Tirso4/Tirso4-Tarea-4---Ejercicios-con-Haskell---Programaci-n-L-gica-y-Funcional/blob/master/imagenes/Problema%204.png)
 
 &nbsp;
 &nbsp;
@@ -99,7 +99,7 @@ Invertir una lista.
  **Solución**
 Usando el comando **Reverse** podemos invertir una lista de elementos fácilmente como se muestra en la **imagen 5**.
  
-![enter image description here](https://lh3.googleusercontent.com/-l0EGDG-Vs4k/WQGmq1CgLNI/AAAAAAAAEho/KrIB0SYmrsAZIr5wcJmhobR6cVB8EluMgCLcB/s0/Problema+1.png "Problema 5.png")
+![](https://github.com/Tirso4/Tirso4-Tarea-4---Ejercicios-con-Haskell---Programaci-n-L-gica-y-Funcional/blob/master/imagenes/Problema%205.png)
 
 &nbsp;
 &nbsp;
@@ -118,7 +118,7 @@ Como saber si una lista es un  palíndromo. Un palíndromo se puede leer delante
  **Solución**
 Para saber si es un palíndromo hay que invertir la lista y compararla con la la lista original de tal manera que si concuerda sera un palíndromo y si no ,no lo es como se muestra en la **imagen 6**.
 
-![enter image description here](https://lh3.googleusercontent.com/-OHn3n8t4VHE/WQGvptY0m_I/AAAAAAAAEh8/YXX07ykr2Z8dz8_1KYTNNyvdR8ggLI53wCLcB/s0/Problema+1.png "Problema 6.png")
+![](https://github.com/Tirso4/Tirso4-Tarea-4---Ejercicios-con-Haskell---Programaci-n-L-gica-y-Funcional/blob/master/imagenes/Problema%206.png)
 
 &nbsp;
 &nbsp;
@@ -149,7 +149,7 @@ homogéneas.
 **Solución**
 Usaremos el comando **concat** que nos permite fusionar varias listas en una sola como se muestra en la **imagen 7**.
 
-![enter image description here](https://lh3.googleusercontent.com/-1HsVSxD5KrM/WQJRQlo4QZI/AAAAAAAAEiU/Kt3LhB3rs64vXvwq6wuPM52BMVU0vbqyQCLcB/s0/Problema+1.png "Problema 7.png")
+!![](https://github.com/Tirso4/Tirso4-Tarea-4---Ejercicios-con-Haskell---Programaci-n-L-gica-y-Funcional/blob/master/imagenes/Problema%206.png)
 
 &nbsp;
 &nbsp;
@@ -175,7 +175,7 @@ Usamos el método **Foldr**  para poder eliminar los elementos consecutivos como
 
 Solo los elementos duplicados hacia la derecha de dicho elemento son eliminados, si el elemento es diferente de izquierda a derecha no se elimina.
 
-![enter image description here](https://lh3.googleusercontent.com/-_2cHukTMUIk/WQOk3BJeUYI/AAAAAAAAEiw/ZXWzF3WRYN4ohtc5gcWiIKj-p2Gmwi0hACLcB/s0/Problema+1.png "Problema 8.png")
+!![](https://github.com/Tirso4/Tirso4-Tarea-4---Ejercicios-con-Haskell---Programaci-n-L-gica-y-Funcional/blob/master/imagenes/Problema%208.png)
 
 &nbsp;
 &nbsp;
@@ -197,6 +197,8 @@ Empaque duplicados consecutivos de elementos de la lista en sublistas. Si una li
 **Solución **
 
 usado los comandos takewhile o dropwhile podemos realizar la operacion cargaremos el metodo **9.hs** como se muestra en la **imagen 9** .
+
+!![](https://github.com/Tirso4/Tirso4-Tarea-4---Ejercicios-con-Haskell---Programaci-n-L-gica-y-Funcional/blob/master/imagenes/Problema%209.png)
 
 
 
