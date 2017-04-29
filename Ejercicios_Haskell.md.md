@@ -669,7 +669,7 @@ libro sobre matemáticas discretas bajo el término "coeficientes multinomiales"
 Es todas las combinaciones que posibles para ello ponemos group [2,3,4]["aldo","beat","carla","david","evi","flip","gary","hugo", "ida"] que nos arroja 1260 resultados , la **imagen 27** es excesivamente grande por la cual no se publico 
 
 
-!![](https://github.com/Tirso4/Tirso4-Tarea-4---Ejercicios-con-Haskell---Programaci-n-L-gica-y-Funcional/blob/master/imagenes/Problema%2027.png)
+
 
 &nbsp;
 &nbsp;
@@ -871,7 +871,7 @@ Construya una lista que contenga los factores primos y su multiplicidad.
 Ver **imagen 36**.
 
 
-!![](https://github.com/Tirso4/Tirso4-Tarea-4---Ejercicios-con-Haskell---Programaci-n-L-gica-y-Funcional/blob/master/imagenes/Problema%2036.png)
+
 
 &nbsp;
 &nbsp;
@@ -895,7 +895,7 @@ calcular con la siguiente fórmula:
 &nbsp;
 **Solución*
 
-!![](https://github.com/Tirso4/Tirso4-Tarea-4---Ejercicios-con-Haskell---Programaci-n-L-gica-y-Funcional/blob/master/imagenes/Problema%2037.png)
+
 
 
 &nbsp;
