@@ -24,7 +24,7 @@
 **Solucion**
 Para ello usamos el comando **Last** como se muestra en la **imagen 1**.
 
-![enter image description here](https://lh3.googleusercontent.com/-EjjP6XvvCKk/WQEn-2RsFhI/AAAAAAAAEgU/QNrz7tiGyP8U5ROFrW9S1uuPTLqdSDojgCLcB/s0/Problema+1.png "Problema 1.png")
+![](https://github.com/Tirso4/Tirso4-Tarea-4---Ejercicios-con-Haskell---Programaci-n-L-gica-y-Funcional/blob/master/imagenes/Problema%201.png)
 
 &nbsp;
 &nbsp;
