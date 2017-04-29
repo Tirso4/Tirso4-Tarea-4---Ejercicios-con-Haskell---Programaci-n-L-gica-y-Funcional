@@ -224,6 +224,7 @@ La codificación de longitud de una lista. Use el resultado del problema P09 par
 
 Usaremos los comandos **lenght**, **takehile** y **dropwhile** que estan en el archivo 10.hs, para que nos de el tamaño de la lista de elementos y tomar cada uno de ellos y mostrar cuantos elementos de cada uno hay como se muestra en la **imagen 10**. 
 
+!![](https://github.com/Tirso4/Tirso4-Tarea-4---Ejercicios-con-Haskell---Programaci-n-L-gica-y-Funcional/blob/master/imagenes/Problema%2010.png)
 
 &nbsp;
 &nbsp;
@@ -249,6 +250,8 @@ Modificar el resultado del problema 10 de tal manera que si un elemento no tiene
 
 Cargando el Archivo 11.hs con nuestra función **encodeModified** podremos ver el resultado como se ve en la **imagen 11**. 
 
+!![](https://github.com/Tirso4/Tirso4-Tarea-4---Ejercicios-con-Haskell---Programaci-n-L-gica-y-Funcional/blob/master/imagenes/Problema%2011.png)
+
 &nbsp;
 &nbsp;
 **Problema 12**
@@ -267,6 +270,9 @@ Dada una lista de códigos de longitud de ejecución generada como se especifica
 **Solución**
 
 Como en el problema 11 nosotros introducíamos una cadena de elementos y ahora nosotros damos una lista para que nos regrese una cadena **imagen 12**.
+
+
+!![](https://github.com/Tirso4/Tirso4-Tarea-4---Ejercicios-con-Haskell---Programaci-n-L-gica-y-Funcional/blob/master/imagenes/Problema%2012.png)
 
 
 
@@ -293,6 +299,9 @@ Implementar el método de compresión de datos por longitud de codificación lla
 
 Cargamos el archivo **13.hs** e introducimos una cadena de elementos como en la **imagen 13** para ver es resultado.
 
+
+!![](https://github.com/Tirso4/Tirso4-Tarea-4---Ejercicios-con-Haskell---Programaci-n-L-gica-y-Funcional/blob/master/imagenes/Problema%2013.png)
+
 &nbsp;
 &nbsp;
 **Problema 14**
@@ -310,7 +319,11 @@ Duplicar los elementos de una lista.
 	  [1,1,2,2,3,3]
 
 **Solución**
-Para este problema tomamos el valor de los elementos y los concatenamos consigo mismo hasta el valor de la lista cargando el archivo **14.hs** y se vera el resultado como en la **imagen 14** .
+Para este problema tomamos el valor de los elementos y los concatenamos consigo mismo hasta el valor de la lista cargando el archivo **14.hs** y se vera el resultado como en la **imagen 14**.
+
+
+!![](https://github.com/Tirso4/Tirso4-Tarea-4---Ejercicios-con-Haskell---Programaci-n-L-gica-y-Funcional/blob/master/imagenes/Problema%2014.png)
+
 
 &nbsp;
 &nbsp;
@@ -333,6 +346,7 @@ Replicar los elementos de una lista de un número dado de veces
 Como en el caso anterior ahora indicaremos cuantas veces queremos que se repita la lista, cargamos el archivo **15.hs** y el resultado se muestra en la **imagen 15**.
 
 
+!![](https://github.com/Tirso4/Tirso4-Tarea-4---Ejercicios-con-Haskell---Programaci-n-L-gica-y-Funcional/blob/master/imagenes/Problema%2015.png)
 
 &nbsp;
 &nbsp;
@@ -356,6 +370,8 @@ quitar cada elemento de N-sima de una lista.
 Hay que quitar los elementos  que nosotros indiquemos para ello tendremos esta cadena **"abcdefghik"** y quitaremos los últimos 3 cargamos el archivo **16.hs** y el resultado seria como en la **imagen 16**.
 
 
+!![](https://github.com/Tirso4/Tirso4-Tarea-4---Ejercicios-con-Haskell---Programaci-n-L-gica-y-Funcional/blob/master/imagenes/Problema%2016.png)
+
 &nbsp;
 &nbsp;
 **Problema 17**
@@ -377,6 +393,7 @@ Dividir una lista en dos partes; Se da la longitud de la primera parte
 Teniendo una nuestra cadena **"abcdefghik"** procederemos a que nos la muestre en 2 listas, empezando de izquierda a derecha  sera el desplazamiento que nosotros le daremos para indicar en que punto se dividirá, cargamos el archivo **17.hs** y el resultado seria el siguiente como se muestra en la **imagen 17**
 
 
+!![](https://github.com/Tirso4/Tirso4-Tarea-4---Ejercicios-con-Haskell---Programaci-n-L-gica-y-Funcional/blob/master/imagenes/Problema%2017.png)
 
 &nbsp;
 &nbsp;
@@ -400,6 +417,8 @@ Dados dos índices, i y k, la rebanada es la lista que contiene los elementos en
 
 Para ello nosotros indicaremos desde que punto de la cadena queremos que se vea, es decir desde donde empieza hasta donde termina, cargamos el archivo **18.hs**  y el resultado sera el sigueinte como se muestra en la **imagen 18**.
 
+
+!![](https://github.com/Tirso4/Tirso4-Tarea-4---Ejercicios-con-Haskell---Programaci-n-L-gica-y-Funcional/blob/master/imagenes/Problema%2018.png)
 
 &nbsp;
 &nbsp;
@@ -432,6 +451,8 @@ Pista: Utilice la longitud funciones predefinidas y (++).
 En una Lista indicaremos desde donde empezara omitiendo los primeros elementos que hay y poniéndolos la final, cargamos el archivo **19.hs** y el resultado es como en la **imagen 19**.
 
 
+!![](https://github.com/Tirso4/Tirso4-Tarea-4---Ejercicios-con-Haskell---Programaci-n-L-gica-y-Funcional/blob/master/imagenes/Problema%2019.png)
+
 &nbsp;
 &nbsp;
 **Problema 20**
@@ -463,6 +484,8 @@ la versión Prolog también devuelve el elemento eliminado.
 En este caso en los elementos que tenemos indicamos cual estará fuera de la cadena llenándolo para mostrar 2 cadenas en la cual esta el elemento retirado y los demas elementos, cargamos el archivo **20.hs** y el resultado es como en la **imagen 20**
 
 
+!![](https://github.com/Tirso4/Tirso4-Tarea-4---Ejercicios-con-Haskell---Programaci-n-L-gica-y-Funcional/blob/master/imagenes/Problema%2020.png)
+
 &nbsp;
 &nbsp;
 **Problema 21**
@@ -481,6 +504,9 @@ Insertar un elemento en una posición dada en una lista.
 **Solución**
 
 En si hay que introducir una cadena dentro de otra cadena indicando la posición en donde queremos que se implemente, como se muestra en la **imagen** 21.
+
+
+!![](https://github.com/Tirso4/Tirso4-Tarea-4---Ejercicios-con-Haskell---Programaci-n-L-gica-y-Funcional/blob/master/imagenes/Problema%2021.png)
 
 &nbsp;
 &nbsp;
@@ -502,6 +528,7 @@ Crear una lista que contiene todos los números enteros dentro de un rango deter
 Simplemente hay que indicar desde donde empieza la lista hasta donde termina como se muestra en la **imagen 22**.
 
 
+!![](https://github.com/Tirso4/Tirso4-Tarea-4---Ejercicios-con-Haskell---Programaci-n-L-gica-y-Funcional/blob/master/imagenes/Problema%2022.png)
 
 &nbsp;
 &nbsp;
@@ -523,6 +550,8 @@ Extraer un número dado de elementos seleccionados al azar de una lista.
 Hay que indicar cuantos elementos de la cadena queremos y el programa que viene en el archivo **23.hs** nos dará un resultado al azar de la cadena como se muestra en la **imagen 23**.
 
 
+!![](https://github.com/Tirso4/Tirso4-Tarea-4---Ejercicios-con-Haskell---Programaci-n-L-gica-y-Funcional/blob/master/imagenes/Problema%2023.png)
+
 &nbsp;
 &nbsp;
 **Problema 24**
@@ -542,6 +571,8 @@ mostrar N números diferentes  aleatorios desde el 1..m conjunto.
 **Solución**
 Usando **Random** nos facilita poder escoger los numero aleatorios. para ello indicamos cuantos números queremos y el rango de N de los cuales queramos, como se ve en la **imagen 24**.
 
+
+!![](https://github.com/Tirso4/Tirso4-Tarea-4---Ejercicios-con-Haskell---Programaci-n-L-gica-y-Funcional/blob/master/imagenes/Problema%2024.png)
 
 &nbsp;
 &nbsp;
@@ -566,6 +597,8 @@ Generar una permutación aleatoria de los elementos de una lista.
 Introducimos una cadena y nos mostrara una cadena aleatoria a expeción del primera elemento que este en el cadena original, como se muestra en la **imagen 25**.
 
 
+!![](https://github.com/Tirso4/Tirso4-Tarea-4---Ejercicios-con-Haskell---Programaci-n-L-gica-y-Funcional/blob/master/imagenes/Problema%2025.png)
+
 &nbsp;
 &nbsp;
 **Problema 26**
@@ -589,6 +622,8 @@ Generar las combinaciones de objetos distintos K elegidos entre los N elementos 
 
 Nosotros indicaremos en la cadena de elementos desde que punto queremos que nos muestre todas las combinaciones que halla, como se muestra en la **imagen 26**.
 
+
+!![](https://github.com/Tirso4/Tirso4-Tarea-4---Ejercicios-con-Haskell---Programaci-n-L-gica-y-Funcional/blob/master/imagenes/Problema%2026.png)
 
 &nbsp;
 &nbsp;
@@ -631,9 +666,10 @@ libro sobre matemáticas discretas bajo el término "coeficientes multinomiales"
 
 **Solución**
 
-Es todas las combinaciones que posibles para ello ponemos group [2,3,4]["aldo","beat","carla","david","evi","flip","gary","hugo", "ida"] que nos arroja 1260 resultados , la imagen 27 es excesivamente grande por la cual no se publico 
+Es todas las combinaciones que posibles para ello ponemos group [2,3,4]["aldo","beat","carla","david","evi","flip","gary","hugo", "ida"] que nos arroja 1260 resultados , la **imagen 27** es excesivamente grande por la cual no se publico 
 
 
+!![](https://github.com/Tirso4/Tirso4-Tarea-4---Ejercicios-con-Haskell---Programaci-n-L-gica-y-Funcional/blob/master/imagenes/Problema%2027.png)
 
 &nbsp;
 &nbsp;
@@ -672,9 +708,10 @@ tarde.
 
 
 **Solución**
-En el caso a) tenemos mostremos las cadenas de menor a mayor tamaño y en el caso b) mostramos las cadenas menos frecuentes y después las mas frecuentes. 
+En el caso a) tenemos mostremos las cadenas de menor a mayor tamaño y en el caso b) mostramos las cadenas menos frecuentes y después las mas frecuentes, como se muestra en la **imagen 28**. 
 
 
+!![](https://github.com/Tirso4/Tirso4-Tarea-4---Ejercicios-con-Haskell---Programaci-n-L-gica-y-Funcional/blob/master/imagenes/Problema%2028.png)
 
 
 &nbsp;
@@ -698,6 +735,8 @@ Determinar si un número entero dado es primo.
 Determinar si N es un numero primo, como se ve en la **imagen 31**.
 
 
+!![](https://github.com/Tirso4/Tirso4-Tarea-4---Ejercicios-con-Haskell---Programaci-n-L-gica-y-Funcional/blob/master/imagenes/Problema%2031.png)
+
 &nbsp;
 &nbsp;
 **Problema 32**
@@ -719,6 +758,7 @@ Determinar el máximo común divisor de dos números enteros positivos.
 **imagen 32**.
 
 
+!![](https://github.com/Tirso4/Tirso4-Tarea-4---Ejercicios-con-Haskell---Programaci-n-L-gica-y-Funcional/blob/master/imagenes/Problema%2032.png)
 
 &nbsp;
 &nbsp;
@@ -742,6 +782,9 @@ Determinar si dos números enteros positivos son primos entre sí. Dos números 
 **Solución** 
 
 Hay que revisar los 2 elementos y ver si son primos si es así nos dirá que es verdadero y si no lo es nos dará falso , cargamos el archivo **33.hs** y el resultado seria como el de la **imagen 33**.
+
+
+!![](https://github.com/Tirso4/Tirso4-Tarea-4---Ejercicios-con-Haskell---Programaci-n-L-gica-y-Funcional/blob/master/imagenes/Problema%2033.png)
 
 
 &nbsp;
@@ -774,6 +817,8 @@ phi (1) = 1.
 **imagen 34**.
 
 
+!![](https://github.com/Tirso4/Tirso4-Tarea-4---Ejercicios-con-Haskell---Programaci-n-L-gica-y-Funcional/blob/master/imagenes/Problema%2034.png)
+
 &nbsp;
 &nbsp;
 **Problema 35**
@@ -798,6 +843,8 @@ lista plana que contenga los factores primos en orden ascendente.
 
 Hay que sacar todos los números primos de N y ordenarlos de menor a mayor como en una lista como se muestra en la **imagen 35** .
 
+
+!![](https://github.com/Tirso4/Tirso4-Tarea-4---Ejercicios-con-Haskell---Programaci-n-L-gica-y-Funcional/blob/master/imagenes/Problema%2035.png)
 
 &nbsp;
 &nbsp;
@@ -824,6 +871,7 @@ Construya una lista que contenga los factores primos y su multiplicidad.
 Ver **imagen 36**.
 
 
+!![](https://github.com/Tirso4/Tirso4-Tarea-4---Ejercicios-con-Haskell---Programaci-n-L-gica-y-Funcional/blob/master/imagenes/Problema%2036.png)
 
 &nbsp;
 &nbsp;
@@ -842,6 +890,12 @@ calcular con la siguiente fórmula:
          (p2 - 1) * p2 ** (m2 - 1) * 
          (p3 - 1) * p3 ** (m3 - 1) * ...
 
+
+&nbsp;
+&nbsp;
+**Solución*
+
+!![](https://github.com/Tirso4/Tirso4-Tarea-4---Ejercicios-con-Haskell---Programaci-n-L-gica-y-Funcional/blob/master/imagenes/Problema%2037.png)
 
 
 &nbsp;
@@ -880,6 +934,8 @@ P29> primesR 10 20
 
 Hay que mostrar todos los números primos de un rango a otro , cargamos el archivo **39.hs** y el resultado seria como se muestra en la **imagen 39**.
 
+!![](https://github.com/Tirso4/Tirso4-Tarea-4---Ejercicios-con-Haskell---Programaci-n-L-gica-y-Funcional/blob/master/imagenes/Problema%2039.png)
+
 &nbsp;
 &nbsp;
 **Problema 40**
@@ -905,6 +961,7 @@ La conjetura de Goldbach dice que cada número positivo igual mayor que 2 es la 
 
 **imagen 40**.
 
+!![](https://github.com/Tirso4/Tirso4-Tarea-4---Ejercicios-con-Haskell---Programaci-n-L-gica-y-Funcional/blob/master/imagenes/Problema%2040.png)
 
 &nbsp;
 &nbsp;
@@ -946,6 +1003,7 @@ grandes que dicen 50. Intente descubrir cuántos tales casos hay en el rango
 
 **imagen 41**.
 
+!![](https://github.com/Tirso4/Tirso4-Tarea-4---Ejercicios-con-Haskell---Programaci-n-L-gica-y-Funcional/blob/master/imagenes/Problema%2041.png)
 
 &nbsp;
 &nbsp;
@@ -984,7 +1042,7 @@ una expresión lógica dada en dos variables.
 **Solución** 
 
 
-
+!![](https://github.com/Tirso4/Tirso4-Tarea-4---Ejercicios-con-Haskell---Programaci-n-L-gica-y-Funcional/blob/master/imagenes/Problema%2046.png)
 
 &nbsp;
 &nbsp;
@@ -1019,7 +1077,7 @@ costumbre; Como en Java.
 
 **imagen 47**.
 
-
+!![](https://github.com/Tirso4/Tirso4-Tarea-4---Ejercicios-con-Haskell---Programaci-n-L-gica-y-Funcional/blob/master/imagenes/Problema%2047.png)
 
 
 &nbsp;
@@ -1076,6 +1134,11 @@ Expr, que contiene las variables lógicas enumeradas en List.
 **imagen 48**.
 
 
+!![](https://github.com/Tirso4/Tirso4-Tarea-4---Ejercicios-con-Haskell---Programaci-n-L-gica-y-Funcional/blob/master/imagenes/Problema%2048.png)
+
+
+
+
 &nbsp;
 &nbsp;
 **Problema 49**
@@ -1102,6 +1165,8 @@ más eficiente, cuando se va a utilizar de forma repetida?
 **Solución**
 
 **imagen 49**.
+
+!![](https://github.com/Tirso4/Tirso4-Tarea-4---Ejercicios-con-Haskell---Programaci-n-L-gica-y-Funcional/blob/master/imagenes/Problema%2049.png)
 
 &nbsp;
 &nbsp;
@@ -1132,3 +1197,5 @@ realizada por el predicado huffman / 2 definido como sigue:
 **Solución**
 
 **imagen 50**.
+
+!![](https://github.com/Tirso4/Tirso4-Tarea-4---Ejercicios-con-Haskell---Programaci-n-L-gica-y-Funcional/blob/master/imagenes/Problema%2050.png)
